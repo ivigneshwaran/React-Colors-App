@@ -46,3 +46,8 @@
 .rc-slider-rail {
   height: 8px;
 }
+
+.Navbar .select-container {
+  display: flex;
+  justify-content: flex-end;
+}
